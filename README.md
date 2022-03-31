@@ -1,0 +1,2 @@
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashiradeer&title_color=b619ff&text_color=ff46b8&bg_color=1f1f1f&border_color=272727&icon_color=00b7ff&border_radius=5&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&title_color=b619ff&text_color=ff46b8&bg_color=1f1f1f&border_color=272727&border_radius=5&layout=compact&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
