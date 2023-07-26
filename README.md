@@ -1,11 +1,26 @@
-[![GameJolt](https://img.shields.io/badge/GameJolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black)](https://gamejolt.com/@NashiraDeer)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://nashiradeer.itch.io/)
+# Hello! I am Nashira Deer!
+
+Well, actually this is the nickname chosen by me to represent myself, in fact, my name is Deyvid da Silva Costa, but if you prefer, you can also call me Kitsune, the nickname I am called by my closest friends. Personally, I like Kitsune, but all names are equally valid.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H4NKWWN)
+
+## Story
+
+Despite being interested in computers since childhood, it was only in 2019 that I actually started to study programming, starting with JavaScript, developing bots for Discord using only a cell phone with Termux and DroidEdit installed, since then I have been studying computing, always looking for something new to learn.
+
+## Social media
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/NashiraDeer)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/nashiradeer)
 [![Patreon](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nashiradeer)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nashiradeer/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/nashira_deer)
-[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/nashiradeer)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashiradeer&title_color=b619ff&text_color=ff46b8&bg_color=1f1f1f&border_color=272727&icon_color=00b7ff&border_radius=5&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&title_color=b619ff&text_color=ff46b8&bg_color=1f1f1f&border_color=272727&border_radius=5&layout=compact&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+
+<a href="https://github.com/nashiradeer">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nashiradeer&theme=midnight-purple&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/nashiradeer">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=10" />
+</a>
