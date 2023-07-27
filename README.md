@@ -23,5 +23,5 @@ Despite being interested in computers since childhood, it was only in 2019 that 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nashiradeer&theme=midnight-purple&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/nashiradeer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=5" />
 </a>
