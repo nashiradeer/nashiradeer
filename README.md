@@ -1,6 +1,6 @@
 # Hello! I am Nashira Deer!
 
-Well, actually this is the nickname chosen by me to represent myself, in fact, my name is Deyvid da Silva Costa, but if you prefer, you can also call me Kitsune, the nickname I am called by my closest friends. Personally, I like Kitsune, but all names are equally valid.
+Well, actually this is the nickname chosen by me to represent myself, in fact, my name is Deyvid da Silva Costa, but if you prefer, you can also call me Kitsune, the nickname my closest friends call me. Personally, I like Kitsune, but all names are equally valid.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H4NKWWN)
 
