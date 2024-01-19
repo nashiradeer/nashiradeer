@@ -1,2 +1,0 @@
-xrandr --output DP-1 --mode 1920x1080 --rate 74.97 --primary --output HDMI-0 --mode 1920x1080 --rate 74.97 --right-of DP-1
-
