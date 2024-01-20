@@ -23,6 +23,8 @@ mokutil
 neofetch
 neovim
 networkmanager
+noto-fonts-cjk
+noto-fonts-emoji
 ntfs-3g
 numlockx
 nvidia
@@ -30,6 +32,7 @@ os-prober
 pacutils
 pavucontrol
 pipewire-pulse
+python-pip
 sbsigntools
 shim-signed
 sudo
@@ -40,5 +43,6 @@ xdg-desktop-portal-gtk
 xorg-xrandr
 xorg-xsetroot
 yay
+yt-dlp
 zram-generator
 zsh-completions
