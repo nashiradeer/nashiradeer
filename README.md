@@ -17,11 +17,12 @@ However being interested in computers since childhood (2016), it was only in 201
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nashiradeer.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@nashiradeer)
 
-## Stats
+## Github Stats
 
-<a href="https://github.com/nashiradeer">
-  <img height=200 src="https://nashiradeer-github-readme-stats.vercel.app/api?username=nashiradeer&theme=midnight-purple&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/nashiradeer">
-  <img height=200 src="https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut-vertical&langs_count=10&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake" />
-</a>
+[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api?username=nashiradeer&hide_title=true&theme=midnight-purple&show_icons=true&count_private=true#gh-dark-mode-only)](https://github.com/nashiradeer#gh-dark-mode-only)
+[![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api?username=nashiradeer&hide_title=true&theme=buefy&show_icons=true&count_private=true#gh-light-mode-only)](https://github.com/nashiradeer#gh-light-mode-only)
+
+## Top Languages
+
+[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&hide_title=true&theme=midnight-purple&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-dark-mode-only)](https://github.com/nashiradeer#gh-dark-mode-only)
+[![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&hide_title=true&theme=buefy&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-light-mode-only)](https://github.com/nashiradeer#gh-light-mode-only)
