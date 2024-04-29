@@ -12,7 +12,7 @@ Despite being interested in computers since childhood, it was only in 2019 that 
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashiradeer)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/NashiraDeer)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/nashiradeer)
+[![X/Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/nashiradeer)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nashiradeer.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@nashiradeer)
 
