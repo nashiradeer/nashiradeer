@@ -20,5 +20,5 @@ However being interested in computers since childhood (2016), it was only in 201
   <img height=200 src="https://nashiradeer-github-readme-stats.vercel.app/api?username=nashiradeer&theme=midnight-purple&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/nashiradeer">
-  <img height=200 src="https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake" />
+  <img height=200 src="https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake" />
 </a>
