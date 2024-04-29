@@ -24,5 +24,5 @@ However being interested in computers since childhood (2016), it was only in 201
 
 ## Top Languages
 
-[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&hide_title=true&theme=midnight-purple&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-dark-mode-only)](https://github.com/nashiradeer#gh-dark-mode-only)
+[![GitHub Stats-Dark](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&hide_title=true&theme=midnight-purple&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-dark-mode-only)](https://github.com/nashiradeer#gh-dark-mode-only)
 [![GitHub Stats-Light](https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&hide_title=true&theme=buefy&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,cmake#gh-light-mode-only)](https://github.com/nashiradeer#gh-light-mode-only)
