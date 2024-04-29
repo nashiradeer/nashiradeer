@@ -10,17 +10,17 @@ Despite being interested in computers since childhood, it was only in 2019 that 
 
 ## Social media
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashiradeer)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nashiradeer)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/NashiraDeer)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/nashiradeer)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/nashiradeer)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nashiradeer.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@nashiradeer)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nashiradeer)
 
 ## Stats
 
 <a href="https://github.com/nashiradeer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nashiradeer&theme=midnight-purple&show_icons=true&count_private=true" />
+  <img height=200 align="center" src="https://nashiradeer-github-readme-stats.vercel.app/api?username=nashiradeer&theme=midnight-purple&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/nashiradeer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=5" />
+  <img height=200 align="center" src="https://nashiradeer-github-readme-stats.vercel.app/api/top-langs/?username=nashiradeer&theme=midnight-purple&layout=donut&langs_count=5" />
 </a>
