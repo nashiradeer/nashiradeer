@@ -54,6 +54,14 @@ Apresentation Screen: Breeze
 
 - Discord App
 - Telegram Desktop
+- `~/.config/autostart/ssh-add.desktop`, content:
+
+```desktop
+[Desktop Entry]
+Exec=ssh-add -q ~/.ssh/id_ed25519 < /dev/null
+Name=ssh-add
+Type=Application
+```
 
 ## Plasma Panels
 
