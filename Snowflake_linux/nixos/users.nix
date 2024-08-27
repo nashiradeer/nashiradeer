@@ -4,7 +4,6 @@
     description = "Nashira Deer";
     extraGroups = [ "docker" "libvirtd" "networkmanager" "wheel" ];
     packages = with pkgs; [
-      arrpc
       brave
       davinci-resolve
       gimp
