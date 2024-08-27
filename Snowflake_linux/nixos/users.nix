@@ -15,10 +15,11 @@
       krita
       localsend
       neofetch
+      obs-studio
       (retroarch.override {
         cores = with libretro; [
-          desmume
-        ];
+	  desmume
+	];
       })
       telegram-desktop
       thunderbird
