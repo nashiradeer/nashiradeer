@@ -57,6 +57,7 @@
     ffmpeg-full
     git
     kdePackages.discover
+    kdePackages.filelight
     kdePackages.ksshaskpass
     kdePackages.qtstyleplugin-kvantum
     neovim
