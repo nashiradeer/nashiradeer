@@ -30,7 +30,7 @@
     hostName = "Snowflake";
     firewall = {
       allowedTCPPorts = [ 53317 57621 ];
-      allowedUDPPorts = [ 5352 53317 ];
+      allowedUDPPorts = [ 5353 53317 ];
     };
     networkmanager.enable = true;
   };
@@ -50,11 +50,13 @@
     };
     displayManager.sddm.enable = true;
     desktopManager.plasma6.enable = true; 
+    flatpak.enable = true;
   }; 
 
   environment.systemPackages = with pkgs; [
     ffmpeg-full
     git
+    kdePackages.discover
     kdePackages.ksshaskpass
     kdePackages.qtstyleplugin-kvantum
     neovim

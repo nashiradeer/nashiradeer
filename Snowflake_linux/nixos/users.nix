@@ -4,6 +4,7 @@
     description = "Nashira Deer";
     extraGroups = [ "docker" "libvirtd" "networkmanager" "wheel" ];
     packages = with pkgs; [
+      blender
       brave
       davinci-resolve
       gimp
@@ -14,7 +15,6 @@
       krita
       localsend
       neofetch
-      spotify
       telegram-desktop
       thunderbird
       vesktop
