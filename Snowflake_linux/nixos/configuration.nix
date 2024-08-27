@@ -1,6 +1,6 @@
 { config, pkgs, ... }: {
   imports = [
-    ./hardware-configuration.nix
+    ./hardware.nix
     ./localization.nix
     ./networking.nix
     ./nvidia.nix
