@@ -15,6 +15,11 @@
       krita
       localsend
       neofetch
+      (retroarch.override {
+        cores = with libretro; [
+          desmume
+        ];
+      })
       telegram-desktop
       thunderbird
       vesktop
