@@ -6,7 +6,6 @@
     packages = with pkgs; [
       brave
       davinci-resolve
-      discord
       gimp
       google-chrome
       inkscape
@@ -18,6 +17,7 @@
       spotify
       telegram-desktop
       thunderbird
+      vesktop
       vlc
       vscode
     ];
