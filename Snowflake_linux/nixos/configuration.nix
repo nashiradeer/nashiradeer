@@ -16,6 +16,7 @@
       systemd-boot.enable = true;
       efi.canTouchEfiVariables = true;
     };
+    plymouth.enable = true;
     supportedFilesystems = [ "ntfs" ];
   };
 
@@ -51,22 +52,18 @@
     displayManager.sddm.enable = true;
     desktopManager.plasma6.enable = true; 
     flatpak.enable = true;
+    zerotierone = {
+      enable = true;
+      joinNetworks = [
+        "9f77fc393e7a0327"
+      ];
+    };
   }; 
-
-  environment.systemPackages = with pkgs; [
-    ffmpeg-full
-    git
-    kdePackages.discover
-    kdePackages.filelight
-    kdePackages.ksshaskpass
-    kdePackages.qtstyleplugin-kvantum
-    neovim
-    wl-clipboard
-    xclip 
-  ];
 
   programs = {
     firefox.enable = true;
+    nix-ld.enable = true;
+    partition-manager.enable = true;
     ssh = {
       startAgent = true;
       askPassword = "${pkgs.kdePackages.ksshaskpass}/bin/ksshaskpass";
@@ -85,8 +82,26 @@
     };
   };
 
-  environment.variables = {
-    SSH_ASKPASS_REQUIRE = "prefer";
+  environment = {
+    systemPackages = with pkgs; [
+      ffmpeg-full
+      git
+      google-chrome
+      kdePackages.discover
+      kdePackages.filelight
+      kdePackages.ksshaskpass
+      kdePackages.qtstyleplugin-kvantum
+      neovim
+      wl-clipboard 
+    ];
+
+    variables = {
+      SSH_ASKPASS_REQUIRE = "prefer";
+    };
+ 
+    sessionVariables = {
+      CHROME_EXECUTABLE = "$(find /nix/store -maxdepth 5 -name google-chrome -path '*-google-chrome-*' -executable -print -quit)";
+    };
   };
 
   system.stateVersion = "24.05";

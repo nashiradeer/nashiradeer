@@ -9,8 +9,11 @@
       kernelModules = [ ];
     };
 
-    kernelModules = [ "kvm-intel" ];
-    extraModulePackages = [ ];
+    kernelModules = [ "kvm-intel" "v4l2loopback" ];
+
+    extraModulePackages = with config.boot.kernelPackages; [
+      v4l2loopback
+    ];
   };
 
   fileSystems = {
