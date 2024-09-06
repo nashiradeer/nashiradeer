@@ -25,9 +25,9 @@
       obs-studio
       (retroarch.override {
         cores = with libretro; [
-	  desmume
-	  pcsx2
-	];
+	        desmume
+	        pcsx2
+	      ];
       })
       telegram-desktop
       thunderbird
